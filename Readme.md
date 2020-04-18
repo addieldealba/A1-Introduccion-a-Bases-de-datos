@@ -3,7 +3,7 @@
 ### OBJETIVOS
 - Conocer las herramientas de la terminal para obtener, preparar y consultar conjuntos de datos.
 - Definir, agregar, modificar y consultar bases de datos con MySQL.
-- Definir, agregar, modificar y consultar bases de datos con MondoDB.
+- Definir, agregar, modificar y consultar bases de datos con MongoDB.
 - Consultar datos por medio de API en la nube.
 
 ### ORGANIZACIÓN DE MÓDULO
